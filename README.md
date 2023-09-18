@@ -1,14 +1,10 @@
 # SpaceRun
 
 SpaceRun PlayStore'da yayınladığım bir sonsuz koşu oyunu. Ve aynı zamanda ilk oyunum!
-Eksik ve düzensiz yorum satırları için kusura bakmayın.
-
-https://play.google.com/store/apps/details?id=com.OrganicaGames.SpaceRun&pli=1
 
 --
 
 SpaceRun is a endless runner game which I published on PlayStore. And it's the first game i developed.
-Sorry for not adding additional english comment lines.
 
 https://play.google.com/store/apps/details?id=com.OrganicaGames.SpaceRun&pli=1
 
